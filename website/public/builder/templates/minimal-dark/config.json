@@ -1,9 +1,0 @@
-{
-    "name": "Minimal Dark",
-    "category": "Portfolio",
-    "framework": "bootstrap-3",
-    "libraries": [
-        "chart",
-        "classy"
-    ]
-}

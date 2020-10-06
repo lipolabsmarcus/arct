@@ -1,9 +1,0 @@
-{
-    "name": "Bolt",
-    "framework": "bootstrap-3",
-    "category": "Portfolio",
-    "theme": "Paper",
-    "libraries": [
-        "chart"
-    ]
-}
